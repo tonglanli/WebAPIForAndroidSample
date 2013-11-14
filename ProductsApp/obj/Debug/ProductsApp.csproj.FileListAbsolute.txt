@@ -1,0 +1,14 @@
+C:\tong\Software\Tong\Mobility\Android\WebApiSample\Getting Started with ASP.NET Web API (Tutorial Sample)\C#\ProductsApp\bin\ProductsApp.dll.config
+C:\tong\Software\Tong\Mobility\Android\WebApiSample\Getting Started with ASP.NET Web API (Tutorial Sample)\C#\ProductsApp\bin\ProductsApp.dll
+C:\tong\Software\Tong\Mobility\Android\WebApiSample\Getting Started with ASP.NET Web API (Tutorial Sample)\C#\ProductsApp\bin\ProductsApp.pdb
+C:\tong\Software\Tong\Mobility\Android\WebApiSample\Getting Started with ASP.NET Web API (Tutorial Sample)\C#\ProductsApp\bin\Newtonsoft.Json.dll
+C:\tong\Software\Tong\Mobility\Android\WebApiSample\Getting Started with ASP.NET Web API (Tutorial Sample)\C#\ProductsApp\bin\System.Net.Http.Formatting.dll
+C:\tong\Software\Tong\Mobility\Android\WebApiSample\Getting Started with ASP.NET Web API (Tutorial Sample)\C#\ProductsApp\bin\System.Web.Http.dll
+C:\tong\Software\Tong\Mobility\Android\WebApiSample\Getting Started with ASP.NET Web API (Tutorial Sample)\C#\ProductsApp\bin\System.Web.Http.WebHost.dll
+C:\tong\Software\Tong\Mobility\Android\WebApiSample\Getting Started with ASP.NET Web API (Tutorial Sample)\C#\ProductsApp\bin\Newtonsoft.Json.xml
+C:\tong\Software\Tong\Mobility\Android\WebApiSample\Getting Started with ASP.NET Web API (Tutorial Sample)\C#\ProductsApp\bin\System.Net.Http.Formatting.xml
+C:\tong\Software\Tong\Mobility\Android\WebApiSample\Getting Started with ASP.NET Web API (Tutorial Sample)\C#\ProductsApp\bin\System.Web.Http.xml
+C:\tong\Software\Tong\Mobility\Android\WebApiSample\Getting Started with ASP.NET Web API (Tutorial Sample)\C#\ProductsApp\bin\System.Web.Http.WebHost.xml
+C:\tong\Software\Tong\Mobility\Android\WebApiSample\Getting Started with ASP.NET Web API (Tutorial Sample)\C#\ProductsApp\obj\Debug\ProductsApp.csprojResolveAssemblyReference.cache
+C:\tong\Software\Tong\Mobility\Android\WebApiSample\Getting Started with ASP.NET Web API (Tutorial Sample)\C#\ProductsApp\obj\Debug\ProductsApp.dll
+C:\tong\Software\Tong\Mobility\Android\WebApiSample\Getting Started with ASP.NET Web API (Tutorial Sample)\C#\ProductsApp\obj\Debug\ProductsApp.pdb
