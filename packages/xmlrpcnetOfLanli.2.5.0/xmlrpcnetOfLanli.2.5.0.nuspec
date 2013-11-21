@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>xmlrpcnetOfLanli</id>
+    <version>2.5.0</version>
+    <authors>Charles Cook</authors>
+    <owners>Charles Cook</owners>
+    <licenseUrl>http://www.opensource.org/licenses/mit-license.php</licenseUrl>
+    <projectUrl>http://www.xml-rpc.net/</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>A client and server XML-RPC library for .Net.</description>
+    <language>en-US</language>
+    <tags>xml-rpc xml rpc .net20 .net35 .net40</tags>
+  </metadata>
+</package>

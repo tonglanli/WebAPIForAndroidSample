@@ -1,0 +1,108 @@
+﻿
+      <RetrieveTextWeatherRS TimeStamp="2013-11-20T02:42:31.1232425-05:00" Version="0" xmlns="http://www.eds.com/AirlineSOASchema/TextWeather/RetrieveTextWeatherRS">
+         <Success/>
+         <RetrieveTextWeatherResponse>
+            <TextWeather Guid="99231972" xmlns="http://www.eds.com/AirlineSOASchema/TextWeather/TextWeather_CommonTypes">
+               <InsertDateTime>2013-11-20T06:58:34</InsertDateTime>
+               <InsertUserID/>
+               <LastUpdateDateTime>0001-01-01T00:00:00</LastUpdateDateTime>
+               <UpdateLockNumber>0</UpdateLockNumber>
+               <WeatherProductType>Surface Observation</WeatherProductType>
+               <LocationCode>KDEN</LocationCode>
+               <Region>-</Region>
+               <IssuanceDateTime>2013-11-20T06:53:00</IssuanceDateTime>
+               <ReceptionDateTime>2013-11-20T06:59:16</ReceptionDateTime>
+               <WeatherMessage>METAR KDEN 200653Z 00000KT 10SM BKN100 08/M05 A2980 RMK AO2 SLP049 
+ T00781050 401561017=</WeatherMessage>
+               <Provider>
+                  <Code>AIDAP</Code>
+               </Provider>
+               <ActionFlag>N</ActionFlag>
+               <WMOHeader>SAUS20 KNKA 200655</WMOHeader>
+               <WMOProductId>SAUS20</WMOProductId>
+               <WMOOriginatingCenter>KNKA</WMOOriginatingCenter>
+               <WMOReportingDateTime>2013-11-20T06:55:00</WMOReportingDateTime>
+               <WeatherMessageType>SA</WeatherMessageType>
+               <WeatherMessageSubTypeCode>METAR</WeatherMessageSubTypeCode>
+               <TemperatureCelsius>7.8</TemperatureCelsius>
+               <TemperatureFahrenheit>46</TemperatureFahrenheit>
+               <PressureMillibars>1009.1</PressureMillibars>
+               <PressureInches>29.8</PressureInches>
+               <WindHeading>0</WindHeading>
+               <WindHeadingMagneticNorthFlag>false</WindHeadingMagneticNorthFlag>
+               <WindSpeedRaw>0</WindSpeedRaw>
+               <WindSpeedRawUnits>KT</WindSpeedRawUnits>
+               <WindSpeedKnots>0</WindSpeedKnots>
+               <WindVariableFlag>false</WindVariableFlag>
+               <ProductLocationBase>Station</ProductLocationBase>
+            </TextWeather>
+            <TextWeather Guid="99231727" xmlns="http://www.eds.com/AirlineSOASchema/TextWeather/TextWeather_CommonTypes">
+               <InsertDateTime>2013-11-20T06:55:59</InsertDateTime>
+               <InsertUserID/>
+               <LastUpdateDateTime>0001-01-01T00:00:00</LastUpdateDateTime>
+               <UpdateLockNumber>0</UpdateLockNumber>
+               <WeatherProductType>Surface Observation</WeatherProductType>
+               <LocationCode>KIAH</LocationCode>
+               <Region>-</Region>
+               <IssuanceDateTime>2013-11-20T06:53:00</IssuanceDateTime>
+               <ReceptionDateTime>2013-11-20T06:56:41</ReceptionDateTime>
+               <WeatherMessage>METAR KIAH 200653Z 10006KT 10SM CLR 11/06 A3004 RMK AO2 SLP171 
+ T01060061=</WeatherMessage>
+               <Provider>
+                  <Code>AIDAP</Code>
+               </Provider>
+               <ActionFlag>N</ActionFlag>
+               <WMOHeader>SAUS20 KNKA 200655</WMOHeader>
+               <WMOProductId>SAUS20</WMOProductId>
+               <WMOOriginatingCenter>KNKA</WMOOriginatingCenter>
+               <WMOReportingDateTime>2013-11-20T06:55:00</WMOReportingDateTime>
+               <WeatherMessageType>SA</WeatherMessageType>
+               <WeatherMessageSubTypeCode>METAR</WeatherMessageSubTypeCode>
+               <TemperatureCelsius>10.6</TemperatureCelsius>
+               <TemperatureFahrenheit>51.1</TemperatureFahrenheit>
+               <PressureMillibars>1017.3000000000001</PressureMillibars>
+               <PressureInches>30.04</PressureInches>
+               <WindHeading>100</WindHeading>
+               <WindHeadingMagneticNorthFlag>false</WindHeadingMagneticNorthFlag>
+               <WindSpeedRaw>6</WindSpeedRaw>
+               <WindSpeedRawUnits>KT</WindSpeedRawUnits>
+               <WindSpeedKnots>6</WindSpeedKnots>
+               <WindVariableFlag>false</WindVariableFlag>
+               <ProductLocationBase>Station</ProductLocationBase>
+            </TextWeather>
+            <TextWeather Guid="99232373" xmlns="http://www.eds.com/AirlineSOASchema/TextWeather/TextWeather_CommonTypes">
+               <InsertDateTime>2013-11-20T06:58:37</InsertDateTime>
+               <InsertUserID/>
+               <LastUpdateDateTime>0001-01-01T00:00:00</LastUpdateDateTime>
+               <UpdateLockNumber>0</UpdateLockNumber>
+               <WeatherProductType>Surface Observation</WeatherProductType>
+               <LocationCode>KMIA</LocationCode>
+               <Region>-</Region>
+               <IssuanceDateTime>2013-11-20T06:53:00</IssuanceDateTime>
+               <ReceptionDateTime>2013-11-20T06:59:16</ReceptionDateTime>
+               <WeatherMessage>METAR KMIA 200653Z 00000KT 10SM CLR 23/22 A2993 RMK AO2 SLP136 
+ T02280222=</WeatherMessage>
+               <Provider>
+                  <Code>AIDAP</Code>
+               </Provider>
+               <ActionFlag>N</ActionFlag>
+               <WMOHeader>SAUS20 KNKA 200655</WMOHeader>
+               <WMOProductId>SAUS20</WMOProductId>
+               <WMOOriginatingCenter>KNKA</WMOOriginatingCenter>
+               <WMOReportingDateTime>2013-11-20T06:55:00</WMOReportingDateTime>
+               <WeatherMessageType>SA</WeatherMessageType>
+               <WeatherMessageSubTypeCode>METAR</WeatherMessageSubTypeCode>
+               <TemperatureCelsius>22.8</TemperatureCelsius>
+               <TemperatureFahrenheit>73</TemperatureFahrenheit>
+               <PressureMillibars>1013.5</PressureMillibars>
+               <PressureInches>29.93</PressureInches>
+               <WindHeading>0</WindHeading>
+               <WindHeadingMagneticNorthFlag>false</WindHeadingMagneticNorthFlag>
+               <WindSpeedRaw>0</WindSpeedRaw>
+               <WindSpeedRawUnits>KT</WindSpeedRawUnits>
+               <WindSpeedKnots>0</WindSpeedKnots>
+               <WindVariableFlag>false</WindVariableFlag>
+               <ProductLocationBase>Station</ProductLocationBase>
+            </TextWeather>
+         </RetrieveTextWeatherResponse>
+      </RetrieveTextWeatherRS>

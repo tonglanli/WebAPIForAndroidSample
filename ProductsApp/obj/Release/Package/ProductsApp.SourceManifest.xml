@@ -3,4 +3,5 @@
   <IisApp path="C:\tong\Software\Tong\Mobility\Android\WebApiSample\Getting Started with ASP.NET Web API (Tutorial Sample)\C#\ProductsApp\obj\Release\Package\PackageTmp" managedRuntimeVersion="v4.0" />
   <setAcl path="C:\tong\Software\Tong\Mobility\Android\WebApiSample\Getting Started with ASP.NET Web API (Tutorial Sample)\C#\ProductsApp\obj\Release\Package\PackageTmp" setAclResourceType="Directory" />
   <setAcl path="C:\tong\Software\Tong\Mobility\Android\WebApiSample\Getting Started with ASP.NET Web API (Tutorial Sample)\C#\ProductsApp\obj\Release\Package\PackageTmp" setAclUser="anonymousAuthenticationUser" setAclResourceType="Directory" />
+  <setAcl path="C:\tong\Software\Tong\Mobility\Android\WebApiSample\Getting Started with ASP.NET Web API (Tutorial Sample)\C#\ProductsApp\obj\Release\Package\PackageTmp\App_Data" setAclResourceType="Directory" setAclAccess="Write" />
 </sitemanifest>

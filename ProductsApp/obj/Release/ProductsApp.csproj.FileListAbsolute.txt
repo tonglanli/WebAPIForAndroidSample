@@ -12,3 +12,5 @@ C:\tong\Software\Tong\Mobility\Android\WebApiSample\Getting Started with ASP.NET
 C:\tong\Software\Tong\Mobility\Android\WebApiSample\Getting Started with ASP.NET Web API (Tutorial Sample)\C#\ProductsApp\obj\Release\ProductsApp.csprojResolveAssemblyReference.cache
 C:\tong\Software\Tong\Mobility\Android\WebApiSample\Getting Started with ASP.NET Web API (Tutorial Sample)\C#\ProductsApp\obj\Release\ProductsApp.dll
 C:\tong\Software\Tong\Mobility\Android\WebApiSample\Getting Started with ASP.NET Web API (Tutorial Sample)\C#\ProductsApp\obj\Release\ProductsApp.pdb
+C:\tong\Software\Tong\Mobility\Android\WebApiSample\Getting Started with ASP.NET Web API (Tutorial Sample)\C#\ProductsApp\bin\CookComputing.XmlRpcV2.dll
+C:\tong\Software\Tong\Mobility\Android\WebApiSample\Getting Started with ASP.NET Web API (Tutorial Sample)\C#\ProductsApp\bin\HP.FOT.WxNotam.Webreferences.dll
